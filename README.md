@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GianlucaP17
+- 👋 Hi, I’m @GianlucaP17, iOS and Flutter developer
 - 👀 I'm currently working on my personal project: Wishlist - Share your wishes!
 - 🌱 I'm currently learning third party dependencies: CoreML, ARKit
 - 💞️ I'm looking to collaborate on any open source projects involving iOS where I can grow!
